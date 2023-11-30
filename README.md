@@ -18,7 +18,7 @@ Make sure you have Node.js and npm installed on your machine.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/Jsbist21/taskmanagement-app.git
 cd your-project
 npm install
 ```
